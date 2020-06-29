@@ -1,6 +1,9 @@
 # Books
 books library
 
+## Declaration
+If it involves infringement, please contact me(jiejing_ma@163.com) and I will delete the relevant resources. Thanks!
+
 ## Usage
 Here I share some methods about upload and download. More Info you can refer to [git official tutorial](Git/)
 
